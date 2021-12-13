@@ -1,6 +1,6 @@
 //
 //  GameViewController.h
-//  T11E1Jasaba
+//  BasicCarGame
 //
 
 //  Copyright (c) 2015 Shorlo. All rights reserved.
